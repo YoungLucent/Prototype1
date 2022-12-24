@@ -1,0 +1,9 @@
+Prototype1.sln
+/Library
+/Logs
+/obj
+/Temp
+/UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+/.vs
